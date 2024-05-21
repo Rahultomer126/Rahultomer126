@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Rahul Tomer</h1>
-<p align="center">🎓 A passionate Frontend Web Developer and Android Developer. I'm a 2024 graduate actively searching for job opportunities in the field of development.</p>
+- 🎓 A passionate Frontend Web Developer and Android Developer. I'm a 2024 graduate actively searching for job opportunities in the field of development.
 
 - 🔭 I’m currently working on **DevConnect a socail media networking app for Developers to collaborate**
 
